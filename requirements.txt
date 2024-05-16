@@ -361,9 +361,8 @@ pycparser==2.20; python_version >= "3.6" and python_full_version < "3.0.0" or py
 pygments==2.10.0; python_version >= "3.7" \
     --hash=sha256:b8e67fe6af78f492b3c4b3e2970c0624cbf08beb1e493b2c99b9fa1b67a20380 \
     --hash=sha256:f398865f7eb6874156579fdf36bc840a03cab64d1cde9e93d68f46a425ec52c6
-pyminizip==0.2.4 \
-    --hash=sha256:b001a5d0383fad73646b2d9db891f42e025c17f43d82ba1d7b75cae7c1ff4360 \
-    --hash=sha256:347be4c47d7390fc3265a3ce774fd036d0c85cf1efc9bd1ba5a3b3d28e89b255
+pyminizip==0.2.6 \
+    --hash=sha256:0a954dd2a65fd72c8b827b83fb806fb4f301075a6ec43e207d3345ab15843a7a
 pyparsing==2.4.7; python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.7" \
     --hash=sha256:ef9d7589ef3c200abe66653d3f1ab1033c3c419ae9b9bdb1240a85b024efc88b \
     --hash=sha256:c203ec8783bf771a155b207279b9bccb8dea02d8f0c9e5f8ead507bc3246ecc1
